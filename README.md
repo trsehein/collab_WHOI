@@ -2,4 +2,4 @@
 Collaborating with Github at WHOI
 
 Writing something new for collab conflict
-Committing a merge conflict
+Resolving collab conflict
